@@ -2,5 +2,20 @@ body
 {
     color: blueviolet;
     text-align: center;
-    font-family: "arial"
+    font-family: "arial";
+    font size: 18 px;
+    margin: 0;
+    padding: 0;
+}
+#contenedor
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #333;
+    margin: 0 auto;
+}
+#contenedor h1
+{
+    font-size: 20px;
 }
