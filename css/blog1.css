@@ -12,26 +12,26 @@ body
     width: 70%;
     padding: 1cm;
     text-align: left;
-    border: 5px solid #333;
+    border: 2px solid #333;
     margin: 0 auto;
 }
 #contenedor h1
 {
-    font-size: 30px;
+    font-size: 20px;
 }
 #cabecera
 {
     background-color: cadetblue;
-    box-shadow: 0px 3px 20px 0px darkgoldenrod;
+    box-shadow: 0px 3px 20px 0px cadetblue;
     color: rgb(255, 255, 255);
-    font weight: bold ;
+    font-weight: bold ;
     margin: 0;
-    padding 0.8 cm;
+    padding 0.5cm;
 }
 
 #cabecera #tagline
 {
-  padding: 0 0 0 1cm;
+  padding: 0 0 0 1em;
   font-weight: normal;
   font-size: 1.8cm;
 }
