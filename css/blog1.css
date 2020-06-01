@@ -10,7 +10,7 @@ body
 #contenedor
 {
     width: 70%;
-    padding: 1cm;
+    padding: 1em;
     text-align: left;
     border: 2px solid #333;
     margin: 0 auto;
@@ -26,12 +26,17 @@ body
     color: rgb(255, 255, 255);
     font-weight: bold ;
     margin: 0;
-    padding 0.5cm;
+    padding: 0;
+}
+#cabecera #logo
+{
+    width: 200px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
 {
   padding: 0 0 0 1em;
   font-weight: normal;
-  font-size: 1.8cm;
+  font-size: 1em;
 }
