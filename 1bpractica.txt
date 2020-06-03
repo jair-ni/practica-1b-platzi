@@ -3,5 +3,6 @@ linea 1 de texto
 linea 2 de texto
 linea 3 y aqui comenzamos
 linea 4  cambio ultimo
+prueba de git rebase
 cambio para ver como esta funcionando git add
 Prueba de  fork
